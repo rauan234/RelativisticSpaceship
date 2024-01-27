@@ -2,7 +2,7 @@ Demonstration of relativistic aberration of light: https://youtu.be/qDya34i8qjY
 
 Demonstration of the complete graphics, with aberration as well as Doppler shifts: https://youtu.be/8UaJ5RXK1VE
 
-Glitches in the video result from the laptop being unable to simultaneously run the program and record the screen in full resolution and do not appear in the actual gameplay. The source file is main.cpp. Supplementary files (e.g., Wolfram notebooks) are not used in the compillation but can potentially be helpful to those who want to work from this source code. The program can be ran on the CPU.
+Glitches in the video result from my laptop being unable to simultaneously run the program and record the screen in full resolution; they do not appear in the actual gameplay. The source file is main.cpp. Supplementary files (e.g., Wolfram notebooks) are not used in the compillation but can potentially be helpful to those who want to work from this source code. The workings are as follows. Given a collection of triangles that encodes the geometry, the program remaps the points to new coordinates and assigns new colors to the triangles, and these modified triangles are passed to the "usual" Euclidean rasterizer (OpenGL). This way, the program is very simple and can be ran on the CPU, and the rendering is ran on the GPU by OpenGL's highly optimized rasterizer.
 
 
 
