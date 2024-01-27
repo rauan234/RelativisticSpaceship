@@ -1,3 +1,12 @@
+Demonstration of relativistic aberration of light: https://youtu.be/qDya34i8qjY
+Demonstration of the complete graphics, with aberration as well as Doppler shifts: https://youtu.be/8UaJ5RXK1VE
+
+Glitches in the video result from the laptop being unable to simultaneously run the program and record the screen in full resolution and do not appear in the actual gameplay. The source file is main.cpp. Supplementary files (e.g., Wolfram notebooks) are not used in the compillation but can potentially be helpful to those who want to work from this source code. The program can be ran on the CPU.
+
+
+
+
+(C) James Bern. README for the Cow graphics library used in this project.
 ## [🐄 docs (click me) 🐌](https://github.com/james-bern/CSCI-371/wiki)
 
 ## quick start guide
