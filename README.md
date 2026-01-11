@@ -1,4 +1,4 @@
-Demonstration of relativistic aberration of light: https://youtu.be/qDya34i8qjY
+Demonstration of relativistic aberration of light and collision detection, but with Doppler shift turned off: https://youtu.be/qDya34i8qjY
 
 Demonstration of the complete graphics, with aberration as well as Doppler shifts: https://youtu.be/8UaJ5RXK1VE
 
@@ -242,4 +242,5 @@ int main() {
 }
 ```
 </details>
+
 
